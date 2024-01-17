@@ -1,0 +1,67 @@
+
+
+Body {
+     
+     background-image: url(welcometobk.jpg);
+     font-family: 'Dancing Script', cursive;
+     
+}
+
+.container { 
+     height: 100px;
+     width: 100px;
+     Color:  red;
+     Display: flex;
+     Justify-content: center;
+     Align-items: center;
+     Padding: 0 40px;
+
+}
+
+.first, .second, .third {
+     Width: 200px;
+     Height: 300px;
+     Background-color: grey;
+     Box-shadow:  10px 10px 20px black;
+     Border-radius:  20px;
+     Padding:  10px 30px;
+}
+
+.img1, .img2, .img3 {
+height: 200px;
+width: 200px;
+
+}
+
+.img1, .img2, .img3 :hover {
+    width: 220px;
+    height: 220px;
+}
+
+.img4 {
+    width: 400px;
+    height: 400px;
+
+}
+
+.bottom {
+     Background-color: light-grey;
+     Display: flex;
+     Justify-content: center;
+     
+}
+
+
+.h1 {
+Font-family:'Inconsolata', monospace;
+
+}
+
+.h2 {
+Font-family: 'Inconsolata', monospace; 
+
+}
+
+.p {
+Font-family: 'Inconsolata', monospace;
+}
